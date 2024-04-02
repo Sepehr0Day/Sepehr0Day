@@ -41,4 +41,8 @@
 - Telegram: [@Sepehr0Day](https://t.me/Sepehr0Day)
 - Email: [sphrz2324@gmail.com](mailto:sphrz2324@gmail.com)
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Sepehr0Day&style=for-the-badge">
+</a>
+
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
