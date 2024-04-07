@@ -1,9 +1,5 @@
 # Hi, I'm Sepehr
 
-## About Me
-- 🌱 I’m currently learning **Network Security**
-- 💬 Ask me about **Python and C++**
-
 ## Skills
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7DF1E)
@@ -30,6 +26,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+## <a href="https://gist.github.com/Sepehr0Day">Github Gits</a>
+
 ## GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sepehr0day&show_icons=true&theme=dark)](https://github.com/Sepehr0Day/Sepehr0Day)
 
@@ -45,4 +43,5 @@
     <img src="https://komarev.com/ghpvc/?username=Sepehr0Day&style=for-the-badge">
 </a>
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
+
+*Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities*
