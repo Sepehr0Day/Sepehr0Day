@@ -31,7 +31,7 @@
 ## GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sepehr0day&show_icons=true&theme=dark)](https://github.com/Sepehr0Day/Sepehr0Day)
 
-[![Most Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sepehr0day&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/Sepehr0Day/Sepehr0Day)
+[![Most Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sepehr0day&show_icons=true&locale=en&layout=donut&theme=dark)](https://github.com/Sepehr0Day/Sepehr0Day)
 
 [![Profile Stats Card](https://github-readme-streak-stats.herokuapp.com/?user=sepehr0day&&theme=dark)](https://github.com/Sepehr0Day/Sepehr0Day)
 
