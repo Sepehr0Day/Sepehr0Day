@@ -26,7 +26,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## <a href="https://gist.github.com/Sepehr0Day">Github Gits</a>
+## <a href="https://gist.github.com/Sepehr0Day">Github Gist</a>
 
 ## GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sepehr0day&show_icons=true&theme=dark)](https://github.com/Sepehr0Day/Sepehr0Day)
